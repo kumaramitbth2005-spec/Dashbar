@@ -1,2 +1,2 @@
-# Dashbar
+# PlantCare
 This is simple webpage.
